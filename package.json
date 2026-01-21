@@ -1,0 +1,12 @@
+{
+  "name": "plateit-shape-inset-border",
+  "version": "1.0.0",
+  "main": "createBorder.js",
+  "type": "module",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.11",
+    "clipper-lib": "^6.4.2",
+    "fast-glob": "^3.3.3",
+    "svg-path-properties": "^2.0.0"
+  }
+}
